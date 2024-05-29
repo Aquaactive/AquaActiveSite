@@ -7,7 +7,7 @@ const FooterContactUs = () => {
         <div className='flex flex-col items-start justify-center p-4 md:p-0 md:w-1/4'>
             <h3 className='font-bold text-3xl mb-10'>BIZE ULASIN</h3>
             <ul className='flex  flex-col items-start justify-center gap-2'>
-                <li className='flex items-center gap-4 text-[16px]'><MdPhone /> +90 543 9466</li>
+                <li className='flex items-center gap-4 text-[16px]'><MdPhone /> +90 543 503 9466</li>
                 <li className='flex items-center gap-4 text-[16px]'><MdMail /> info@aquaactive.com</li>
                 <li className='flex items-center gap-4 text-[16px]'><BiWorld /> http://www.aquaactive.com.tr</li>
                 <li className='flex items-center gap-4 text-[16px]'><MdAccessTimeFilled /> 9:00 - 18:00</li>
